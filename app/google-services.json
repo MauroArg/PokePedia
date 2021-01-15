@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616972321808",
+    "firebase_url": "https://pokepedia-f8711-default-rtdb.firebaseio.com",
+    "project_id": "pokepedia-f8711",
+    "storage_bucket": "pokepedia-f8711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616972321808:android:2f0795e602545827c5b695",
+        "android_client_info": {
+          "package_name": "com.elaniin.pokepedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616972321808-cj3c0puu1l5hde9cjlhl1o9lisr6l7ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDte7BYuD5zlJtIHT9yDykvT74GlW2q2kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616972321808-cj3c0puu1l5hde9cjlhl1o9lisr6l7ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
